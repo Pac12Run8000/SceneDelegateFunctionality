@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  SceneDelegateFunctionality
-//
-//  Created by Norbert Grover on 11/17/23.
-//
-
 import SwiftUI
 
 struct ContentView: View {
